@@ -1,4 +1,4 @@
-# avaliacacao-cpp
+# avaliacao-cpp
 
 This project was developed in Linux and uses CMake, Conan, Boost and Gooogle Test.
 
